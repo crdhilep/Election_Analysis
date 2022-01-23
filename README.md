@@ -33,7 +33,7 @@ Below image shows the summarized election results based on our analysis.
 
 3. Canditates Lists, Totals Votes they received and their percentage
 
-| Candiate Name | Total Number of Votes | Pencentage of Votes | Candiate Postion |
+| Candiate Name | Total Number of Votes | Pencentage of Votes | Candiate Position |
 | --- | --- | --- | --- |
 | Charles Casper Stockham | 85,213 | 23.0% | 2nd |
 | Diana DeGette | 272,892 | 73.8% | 1st (Winner) |
